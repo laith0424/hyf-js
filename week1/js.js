@@ -42,6 +42,7 @@ console.log('the value of x will be: ' + y);
 let z = 7.25;
 console.log(z);
 let a = parseInt(z);
+//Math.round(a);
 console.log(a);
 let highest_value = Math.max(a, z);
 console.log("the highest value : " + highest_value);
@@ -105,37 +106,3 @@ Printing of marital numbers
 let str = ['Ayham', 1988 , "FooCafe", 2018];
 console.log(str[0] + ' : ' + str[1] + '\n' + str[2] + ' : ' + str[3]);
 console.log((7/0) === (6/0));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
